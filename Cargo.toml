@@ -10,6 +10,6 @@ documentation = "http://ironframework.io/doc/router/index.html"
 keywords = ["iron", "web", "http", "routing", "router"]
 
 [dependencies]
-iron = "0.2"
+iron = { git = "https://github.com/r-arias/iron" }
 route-recognizer = "0.1"
 
